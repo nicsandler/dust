@@ -170,7 +170,7 @@ const _webhookSlackAPIHandler = async (
               });
             }
 
-            const channel = event.channel;
+            const channel = String(event.channel);
             let err: Error | null = null;
 
             // Get valid slack configurations for this channel once
