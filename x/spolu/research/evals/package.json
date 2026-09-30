@@ -21,7 +21,7 @@
     "@mistralai/mistralai": "^0.0.7",
     "@types/node": "^20.5.3",
     "@types/seedrandom": "^3.0.7",
-    "axios": "^1.7.9",
+    "axios": "^1.18.0",
     "blake3": "^2.1.7",
     "install": "^0.13.0",
     "mathjs": "^11.10.0",
@@ -29,7 +29,7 @@
     "openai": "^4.23.0",
     "p-queue": "^8.0.1",
     "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.6",
+    "sqlite3": "^6.0.1",
     "tsx": "^4.7.1"
   }
 }
